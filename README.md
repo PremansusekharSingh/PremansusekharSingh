@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PremansusekharSingh
+- 👋 Hi, I’m @Premansu
 - 👀 I’m interested in Woocommerce, Wordpress development.
 - 🌱 I’m currently learning Ecommerce development & Management.
 - 💞️ I’m looking to collaborate on ...
